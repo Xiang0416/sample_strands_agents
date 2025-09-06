@@ -55,7 +55,7 @@ def lark_base_operator(query: str) -> str:
                 system_prompt="""You are a Lark Base task processing agent. Your job is to understand and respond to user tasks effectively.
                 """,
                 tools=tools,
-                model="us.amazon.nova-pro-v1:0"
+                model="us.amazon.nova-premier-v1:0"
             )
             response = str(research_agent(formatted_query))
             print("\n\n")

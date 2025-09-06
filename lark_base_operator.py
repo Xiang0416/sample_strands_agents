@@ -71,5 +71,5 @@ def lark_base_operator(query: str) -> str:
 
 
 if __name__ == "__main__":
-    lark_base_operator("how many tables in this base: https://fsgob25o8zi9.sg.larksuite.com/base/YlEmbyfj0aeQ5zsMeUIluVXEguf?table=tblC2rRPWwOte5It&view=vewryUwH6m")
+    lark_base_operator("how many tables in this base: https://fsgob25o8zi9.sg.larksuite.com/base/TGHVbBIvFaPPQ3sta8ilkDM3ggh?table=tblVh1BI0imMANn7&view=vew1Fw80mh")
     # lark_base_operator("Create a base with name 'test from strands agent'")
